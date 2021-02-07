@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">HclTask</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_fav">Favourits</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_favourites">Favourites</string>
+    <string name="title_activity_detail">Detail Movies</string>
+
+    <string name="item_title">Title</string>
+    <string name="item_daterelease">Date Release</string>
+    <string name="item_popular">Popularity</string>
+    <string name="detail_image_movies">Detail image movies</string>
+    <string name="title_genre">Genre:</string>
+    <string name="title_date_release">Date Release:</string>
+    <string name="title_director">Director:</string>
+    <string name="title_creator">Creator:</string>
+    <string name="title_overview">Overview</string>
+    <string name="title_status">Status</string>
+    <string name="title_type">Type</string>
+    <string name="title_language">Original Language:</string>
+    <string name="title_budget">Budget:</string>
+    <string name="title_revenue">Revenue:</string>
+    <string name="title_detail_movies">Detail Movies</string>
+    <string name="title_detail_tvshows">Detail TV Shows</string>
+    <string name="title_tab_movies">Movies</string>
+    <string name="title_tab_tvshows">TV Shows</string>
+    <string name="title_popularity">Popularity</string>
+    <string name="title_vote_average">Vote Average</string>
+    <string name="title_vote_count">Vote Count</string>
+    <string name="title">Title</string>
+    <string name="date_release">Date Release</string>
+    <string name="director">Director</string>
+    <string name="creator">Creator</string>
+    <string name="overview">Overview</string>
+    <string name="status">Status</string>
+    <string name="type">Type</string>
+    <string name="language">Language</string>
+    <string name="budget">Budget</string>
+    <string name="revenue">Revenue</string>
+    <string name="popularity">Popularity</string>
+    <string name="average">Average</string>
+    <string name="count">Count</string>
+    <string name="title_last_air_date">Last Air Date</string>
+    <string name="title_first_air_date">First Air Date</string>
+    <string name="first_air_date">First Air Date</string>
+    <string name="last_air_date">Last Air Date</string>
+    <string name="search">Enter movies title name</string>
+    <string name="loading_alert">Loading...</string>
+    <string name="message_undo">Cancel delete the previous item?</string>
+    <string name="message_ok">Ok</string>
+    <string name="msg_error_title">Error</string>
+    <string name="msg_error_text">Something when wrong..!!</string>
+    <string name="title_search_movies">Search Movies</string>
+    <string name="title_search_tvshows">Search Tv Shows</string>
+    <string name="msg_error_status">There is an error</string>
+    <string name="loading_text">Loading....</string>
+    <string name="text_add_favorite">Added successfully to favorites.</string>
+    <string name="text_delete_favorite">Favorites has been removed.</string>
+    <string name="sort_default">Sort Default</string>
+    <string name="sort_newest">Sort Newest</string>
+    <string name="sort_popularity">Sort Popularity</string>
+
+
+</resources>
